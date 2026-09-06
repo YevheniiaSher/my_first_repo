@@ -1,0 +1,2 @@
+date|category|description|amount
+date|category|description|amount
